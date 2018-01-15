@@ -11,3 +11,4 @@ record:
 上传  git commit -m "细节"
 查看状态 git status
 同步至github git push -u origin master
+清除暂存区 git reset HEAD file
