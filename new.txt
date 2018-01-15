@@ -4,3 +4,10 @@ Wow,amazing!
 This is just a test text.
 It seems amazing to use git & github.
 Let's pull again.
+
+record:
+看不同  git diff
+储存  git add 文件名
+上传  git commit -m "细节"
+查看状态 git status
+同步至github git push -u origin master
