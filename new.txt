@@ -1,3 +1,6 @@
 Git is a version control system.
 Git really is a version control system.
 Wow,amazing!
+This is just a test text.
+It seems amazing to use git & github.
+Let's pull again.
