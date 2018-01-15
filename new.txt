@@ -12,3 +12,5 @@ record:
 查看状态 git status
 同步至github git push -u origin master
 清除暂存区 git reset HEAD file
+删除上一个修改之后的内容
+git checkout -- (filename)
