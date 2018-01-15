@@ -15,4 +15,7 @@ record:
 删除上一个修改之后的内容
 git checkout -- (filename)
 
+
+
 this is a word from branch dev
+still from branch dev
